@@ -41,7 +41,7 @@ CF Flux Remix 是一个基于 Cloudflare Workers 和 Remix 框架的图像生成
    部署命令： pnpm run deploy
 
    4、触发CF Workers中部署
-   随便改动一下仓库readme文件，提交后自动触发部署
+   随便改动一下仓库readme文件，提交后自动触发部署。
 
    5、部署完成
    部署完成后打开相应网站来使用，API使用看下面的说明
